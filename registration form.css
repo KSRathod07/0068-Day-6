@@ -1,0 +1,28 @@
+/* .parallax{
+    background-image: url("mi.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+} */
+/* div{
+    margin-top: 40px;
+} */
+video{
+    z-index: -1;
+    background-attachment: fixed;
+    background-size: cover;
+    position: fixed;
+    width: auto;
+    height: auto;
+}
+button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-left: 50%;
+    color: black;
+    margin-top: 150px;
+    border: 1px solid black;
+}
